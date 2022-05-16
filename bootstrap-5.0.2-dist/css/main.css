@@ -1,0 +1,80 @@
+img {
+  display: block;
+  max-width: 50%;
+  height: auto;
+  position: relative;
+  
+}
+
+.text1 {
+  color: rgb(78, 78, 78);
+ 
+}
+
+.container2 {
+  border-radius: 15px;
+  color: rgb(36, 36, 36);
+  background-image: linear-gradient(rgb(252, 252, 252), rgb(243, 243, 243));
+}
+
+.container3 {
+  
+  background-color: gray;
+}
+
+.row2 {
+  background-image: linear-gradient(rgb(180, 116, 180), rgb(122, 122, 255));
+  border-radius: 15px;
+  color:white;
+}
+
+.row3 {
+  background-image: linear-gradient(rgb(180, 116, 180), rgb(122, 122, 255));
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+}
+
+.row4 {
+  background-color: rgb(92, 92, 92);
+  border-radius: 15px;
+  color: white;
+  
+}
+
+.row5 {
+  background-color: rgb(14, 14, 14);
+  border-radius: 15px;
+  color: rgb(46, 46, 46);
+  
+}
+
+.row6 {
+  background-color: rgb(71, 71, 71);
+  border-radius: 15px;
+  
+  
+}
+
+
+
+.btn {
+  background-color: rgb(71, 71, 71);
+  border-radius: 15px;
+  color:white;
+}
+
+.line {
+  border-style: solid;
+  border-color: rgb(212, 212, 212);
+  background-color: rgb(235, 235, 235);
+}
+
+.form-control {
+  background-color: rgb(238, 238, 238);
+  border-style: solid;
+  border-color: rgb(233, 233, 233);
+  border-width: 3px;
+}
+
+
